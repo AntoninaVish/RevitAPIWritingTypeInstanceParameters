@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIWritingTypeInstanceParameters.dll"</Assembly>
+		<AddInId>ED81404E-4D30-472E-8EE8-4EB45036515C</AddInId>
+		<FullClassName>RevitAPIWritingTypeInstanceParameters.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись параметров экземпляра типа для Revit</Text>
+	</AddIn>
+</RevitAddIns>
